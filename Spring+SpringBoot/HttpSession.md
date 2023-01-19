@@ -120,3 +120,12 @@
 | 사용 예  |                   로그인 시 사용자 정보, 장바구니 등                    | 최근 본 상품 목록, 아이디저장(자동로그인), <br/>팝업메뉴에서 '오늘은 그만 보기' 등 |
 | 용량제한  |                           제한 없음                           |                 도메인당 20개, 1쿠키당 4KB                  |
 | 만료시점  | 알 수 없음(Client가 로그아웃하거나,<br/> 일정 시간동안 session에 접근하지 않을 경우) |         쿠키 저장 시 설정(설정이 없을 경우 브라우저 종료 시 만료)          |
+
+
+---
+
+
+## 참고자료
+- https://lindarex.github.io/concepts/java-httpsession-introduction/
+- https://velog.io/@dmchoi224/Session-HttpSession-%EC%9D%B8%ED%84%B0%ED%8E%98%EC%9D%B4%EC%8A%A4.-%EC%BF%A0%ED%82%A4
+- https://soon-devblog.tistory.com/2
